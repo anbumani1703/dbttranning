@@ -1,1 +1,3 @@
-select * from RAW.GLOBALMART.CUSTOMERS
+select customer_name 
+from RAW.GLOBALMART.CUSTOMERS
+
