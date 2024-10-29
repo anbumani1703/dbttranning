@@ -4,5 +4,4 @@
     )
 }}
 
-
-select * from RAW.GLOBALMART.orders
+select * from RAW.GLOBALMART.product
